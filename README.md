@@ -1,4 +1,4 @@
-### CMPUT 328 Fall 2022
+### CMPUT 328 Fall 2022 Course Projects
 
 ### Author: Leen Alzebdeh
 
