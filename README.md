@@ -26,7 +26,7 @@ Dataset consists of:
 
 I customized a U-Net model for image segmentation. I achieve an accuracy of 87%.
 
-### References
+## References
 
 Pytorch. PyTorch. (n.d.). Retrieved May 2, 2023, from [https://pytorch.org/hub/ultralytics_yolov5/](https://pytorch.org/hub/ultralytics_yolov5/)
 
