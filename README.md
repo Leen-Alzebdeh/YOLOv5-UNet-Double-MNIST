@@ -1,4 +1,4 @@
-### CMPUT 328 Fall 2022 Course Projects
+### CMPUT 328 - Visual Recognition, Fall 2022 Course Projects
 
 ### Author: Leen Alzebdeh
 
