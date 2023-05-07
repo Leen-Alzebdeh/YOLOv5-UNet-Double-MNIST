@@ -7,6 +7,7 @@
 I customize YOLOv5 and U-Net on a MNIST Double Digits RGB (MNISTDD-RGB) for a train-valid-test split dataset which was provided from CMPUT 328, more details below.
 
 ## Object Detection on MNIST Double Digits RGB (MNISTDD-RGB)
+Project page: [https://leen-alzebdeh.github.io/projects/328_detection/](https://leen-alzebdeh.github.io/projects/328_detection/)
 
 Dataset consists of: 
 - input: numpy array of numpy arrays which each represent pixels in the image, shape: number of samples, 12288 (flattened 64x64x3 images)
@@ -17,7 +18,7 @@ Dataset consists of:
 I use YOLOv5 for object detection. I achieve a classification score of 98.786% and an IOU score of 63.371%, resulting in an overall score of 81.078%.
 
 ## Semantic Image Segmentation on MNIST Double Digits RGB (MNISTDD-RGB)
-
+Project page: [https://leen-alzebdeh.github.io/projects/328_segmentation/](https://leen-alzebdeh.github.io/projects/328_segmentation/)
 
 Dataset consists of: 
 - input: numpy array of numpy arrays which each represent pixels in the image, shape: number of samples, 12288 (flattened 64x64x3 images)
