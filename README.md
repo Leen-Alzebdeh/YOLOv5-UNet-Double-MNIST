@@ -1,10 +1,10 @@
-### CMPUT 328 - Visual Recognition, Fall 2022 Course Projects
+### CMPUT Course Project
 
 ### Author: Leen Alzebdeh
 
 ## Summary
 
-I customize YOLOv5 and U-Net on a MNIST Double Digits RGB (MNISTDD-RGB) for a train-valid-test split dataset which was provided from CMPUT 328, more details below.
+I customize YOLOv5 and U-Net on a MNIST Double Digits RGB (MNISTDD-RGB) for a train-valid-test split dataset which was provided from the course, more details below.
 
 ## Object Detection on MNIST Double Digits RGB (MNISTDD-RGB)
 Project page: [https://leen-alzebdeh.github.io/projects/328_detection/](https://leen-alzebdeh.github.io/projects/328_detection/)
@@ -37,7 +37,7 @@ Solawetz, J. (2020, September 29). How to train a custom object detection model 
 
 (2017).Pytorch-Unet, from [https://github.com/milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)
 
-I used CMPUT 328's code templates from:
+I used the course's code templates from:
 
 - Assignment 7: Object Detection/predict.py from A7_submission and Object detection/predict.py from A7_main
 - Assignment 8: Image Segmentation/predict.py from A8_submission and Image Segmentation/predict.py from A8_main
